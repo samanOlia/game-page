@@ -1,6 +1,6 @@
 # Game Options Page
 
-![Screenshot](screenshot.png)
+![Screenshot]((https://github.com/samanOlia/game-page/edit/master/assets/screenshot/game-screenshot.png)
 
 A user-friendly and visually appealing game options page designed to enhance the gaming experience. This project simplifies the process of selecting and purchasing in-game options. Built using HTML, CSS, and JavaScript.
 
