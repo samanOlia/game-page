@@ -8,7 +8,6 @@ A user-friendly and visually appealing game options page designed to enhance the
 
 - An intuitive user interface that makes it easy for players to customize their gameplay.
 - High-quality visuals that showcase the available in-game options.
-- Clear pricing and purchase flow for a hassle-free buying process.
 
 
 ## Contact
